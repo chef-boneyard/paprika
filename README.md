@@ -1,4 +1,4 @@
 paprika
 =======
 
-This is a bad README.
+This is a good. README.
