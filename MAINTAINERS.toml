@@ -1,5 +1,7 @@
 [Org.Components.Core]
-  maintainers = [ "thommay" ]
+  maintainers = [ "thommay", "kirtfitzpatrick" ]
 [people]
   [people.thommay]
     GitHub = "thommay"
+  [people.kirtfitzpatrick]
+    GitHub = "kirtfitzpatrick"
